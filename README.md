@@ -9,6 +9,6 @@
 
  Clone this repository: https://github.com/erickgtzh/TestCafe.git
  
- Go to the root of the folder: `cd Users/Documents/GitHub/TestCafe\Instagram`
+ Go to the root of the folder: `cd Users/Documents/GitHub/TestCafe/Instagram`
  
  Run in Chrome: `testcafe chrome tests/suites/`
